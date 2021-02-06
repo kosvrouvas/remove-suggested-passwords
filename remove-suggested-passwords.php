@@ -9,7 +9,7 @@
  * @wordpress-plugin
  * Plugin Name:       Remove Suggested Passwords
  * Plugin URI:        
- * Description:       
+ * Description:       This is a WordPress snippet wrapped up in a plugin to remove the suggested password in WordPress
  * Version:           1.0
  * Author:            Kostas Vrouvas
  * Contributors:      kosvrouvas
