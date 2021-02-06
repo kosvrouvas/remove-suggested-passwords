@@ -2,6 +2,7 @@
 Contributors: kosvrouvas
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8DH2U6LZZZLBL
 Tags: Suggested Passwords, Passwords
+Description: This is a WordPress snippet wrapped up in a plugin to remove the suggested password in WordPress
 Requires at least: 5.3
 Tested up to: 5.6
 Stable Tag: 1.0
